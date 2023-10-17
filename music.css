@@ -1,0 +1,29 @@
+.h1-1 {
+text-align: center;
+position: relative;
+top:25px;
+}
+
+.sad-p1 {
+position: relative;
+text-align: center;
+font-size: 30px;
+top: 100px;
+letter-spacing: 1px;
+}
+
+.sad-img {
+display: flex;
+width: 250px;
+position: relative;
+left: 510px;
+top: 100px;
+}
+
+.exc-p1 {
+position: relative;
+text-align: center;
+font-size:30px ;
+top: 130px;
+letter-spacing: 1px;
+}
