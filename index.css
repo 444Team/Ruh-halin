@@ -14,7 +14,7 @@
   opacity: 0.9;
   animation-name: h1-a;
   animation-duration: 2s;
-  animation-delay: 1s;
+  /* animation-delay: 1s; */
 }
 
 .p2 {
@@ -26,7 +26,7 @@
   position: relative;
   animation-name: h1-a;
   animation-duration: 2s;
-  animation-delay: 1s;
+  /* animation-delay: 1s; */
 }
 
 .message-btn {
@@ -69,7 +69,7 @@
   background: transparent;
   animation-name: h1-a;
   animation-duration: 2s;
-  animation-delay: 1s;
+  /* animation-delay: 1s; */
 }
 
 .btn1 {
@@ -85,14 +85,14 @@
   background: transparent;
   animation-name: h1-a;
   animation-duration: 2s;
-  animation-delay: 1s;
+  /* animation-delay: 1s; */
 }
 
 .btn1:hover {
   background-color: black;
   color: white;
   opacity: 0.6;
-  animation-delay: 1s;
+  /* animation-delay: 1s; */
 }
 
 body {
